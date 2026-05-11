@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Scapy](https://img.shields.io/badge/Powered%20By-Scapy-red.svg)](https://scapy.net/)
 
-The **Advanced ARP Network Scanner** provides a sleek graphical interface to map your local area network (LAN). By broadcasting ARP requests, it identifies active devices, retrieving their IP addresses, MAC addresses, and hostnames in real-time.
+The **ARP Network Scanner** provides a sleek graphical interface to map your local area network (LAN). By broadcasting ARP requests, it identifies active devices, retrieving their IP addresses, MAC addresses, and hostnames in real-time.
 
 ---
 
