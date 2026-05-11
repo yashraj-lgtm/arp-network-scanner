@@ -1,4 +1,4 @@
-# 🔍 Advanced ARP Network Scanner
+# 🔍 ARP Network Scanner
 > **A high-performance, GUI-based network discovery tool built with Python and Scapy.**
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
